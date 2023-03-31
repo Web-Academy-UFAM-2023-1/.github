@@ -33,3 +33,7 @@ O objetivo do curso é formar profissionais capacitados em Desenvolvimento Web F
 | Fundamentos de Integração Contínua e Deploy de Aplicação Web | GitHub Actions e plataformas de deploy na nuvem |
 | Processo de Desenvolvimento Agil                             | Jira                                            |
 | Desenvolvimento de Projeto Prático Guiado                    | -                                               |
+
+<hr>
+
+Saiba mais sobre o projeto em: https://webacademy.icomp.ufam.edu.br/
